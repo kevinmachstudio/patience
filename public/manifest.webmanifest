@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Patience — The Art of Becoming",
+  "short_name": "Patience",
+  "description": "A daily practice for growth, patience, and discipline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen"],
+  "background_color": "#faf8fc",
+  "theme_color": "#faf8fc",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
